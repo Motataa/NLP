@@ -7,4 +7,4 @@ Overview of NLP : https://github.com/Motataa/Rahim_Portfolio/blob/main/Portfolio
 Portfolio Component 1 : https://github.com/Motataa/Rahim_Portfolio/blob/main/PortfolioComponent1_mxr170012.py
 
 ## 3. Portfolio Assignment 3 : Word Guessing Game
-Portfolio Component 3 : https://github.com/Motataa/Rahim_Portfolio/blob/main/PortfolioComponent1_mxr170012.py
+Portfolio Component 2 : https://github.com/Motataa/Rahim_Portfolio/blob/main/PortfolioComponent2_mxr170012.py
