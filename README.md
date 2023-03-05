@@ -13,4 +13,5 @@ Portfolio Component 2 : https://github.com/Motataa/Rahim_Portfolio/blob/main/Por
 Portfolio 3 : https://github.com/Motataa/Rahim_Portfolio/blob/main/Portfolio3_mxr170012.pdf
 
 ## 5. Portfolio Assignment 4 : Ngrams
-Portfolio 3 : https://github.com/Motataa/Rahim_Portfolio/blob/main/Portfolio3_mxr170012.pdf
+Portfolio 4 : https://github.com/Motataa/Rahim_Portfolio/blob/main/PortfolioComponent4_mxr170012.py
+Narrative - Ngrams : 
