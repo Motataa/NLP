@@ -16,3 +16,6 @@ Portfolio 3 : https://github.com/Motataa/Rahim_Portfolio/blob/main/Portfolio3_mx
 Portfolio 4 : https://github.com/Motataa/Rahim_Portfolio/blob/main/PortfolioComponent4_mxr170012.py
 
 Narrative - Ngrams : https://github.com/Motataa/Rahim_Portfolio/blob/main/Narrative_mxr170012.pdf
+
+## 5. Portfolio Assignment 5 : Parsing Sentences
+Portfolio 4 : https://github.com/Motataa/Rahim_Portfolio/blob/main/PortfolioComponent5_mxr170012.pdf
