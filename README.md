@@ -22,3 +22,5 @@ Portfolio 5 : https://github.com/Motataa/Rahim_Portfolio/blob/main/PortfolioComp
 
 ## 5. Portfolio Assignment 6 : Web Crawler
 Portfolio 6: https://github.com/Motataa/Rahim_Portfolio/blob/main/Knowledgebase_mxr170012.pdf
+
+Knowledge Base- https://github.com/Motataa/Rahim_Portfolio/blob/main/portfoliocomponent6_mxr170012.py
