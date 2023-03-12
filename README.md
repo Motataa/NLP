@@ -19,3 +19,6 @@ Narrative - Ngrams : https://github.com/Motataa/Rahim_Portfolio/blob/main/Narrat
 
 ## 5. Portfolio Assignment 5 : Parsing Sentences
 Portfolio 5 : https://github.com/Motataa/Rahim_Portfolio/blob/main/PortfolioComponent5_mxr170012.pdf
+
+## 5. Portfolio Assignment 6 : Web Crawler
+Portfolio 6: https://github.com/Motataa/Rahim_Portfolio/blob/main/Knowledgebase_mxr170012.pdf
