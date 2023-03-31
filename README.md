@@ -17,10 +17,10 @@ Portfolio 4 : https://github.com/Motataa/Rahim_Portfolio/blob/main/PortfolioComp
 
 Narrative - Ngrams : https://github.com/Motataa/Rahim_Portfolio/blob/main/Narrative_mxr170012.pdf
 
-## 5. Portfolio Assignment 5 : Parsing Sentences
+## 6. Portfolio Assignment 5 : Parsing Sentences
 Portfolio 5 : https://github.com/Motataa/Rahim_Portfolio/blob/main/PortfolioComponent5_mxr170012.pdf
 
-## 5. Portfolio Assignment 6 : Web Crawler
+## 7. Portfolio Assignment 6 : Web Crawler
 Portfolio 6: https://github.com/Motataa/Rahim_Portfolio/blob/main/Knowledgebase_mxr170012.pdf
 
 Knowledge Base- https://github.com/Motataa/Rahim_Portfolio/blob/main/portfoliocomponent6_mxr170012.py
