@@ -24,3 +24,6 @@ Portfolio 5 : https://github.com/Motataa/Rahim_Portfolio/blob/main/PortfolioComp
 Portfolio 6: https://github.com/Motataa/Rahim_Portfolio/blob/main/Knowledgebase_mxr170012.pdf
 
 Knowledge Base- https://github.com/Motataa/Rahim_Portfolio/blob/main/portfoliocomponent6_mxr170012.py
+
+## 8. Portfolio Assignment 7 : Text Classification
+Portfolio 6: https://github.com/Motataa/Rahim_Portfolio/blob/main/Portfolio7_mxr170012.pdf
