@@ -33,7 +33,9 @@ Portfolio 8: https://github.com/Motataa/Rahim_Portfolio/blob/main/Portfolio8_mxr
 
 ## 10. Portfolio Assignment 9 : Chatbot Project
 Portfolio 9: https://github.com/Motataa/Rahim_Portfolio/blob/main/Portfolio9_mxr170012.zip
+
 Chatbot: https://github.com/Motataa/Rahim_Portfolio/blob/main/Chatbot_mxr170012.py
 
 Model: https://github.com/Motataa/Rahim_Portfolio/blob/main/Model_mxr170012.py
+
 Report: https://github.com/Motataa/Rahim_Portfolio/blob/main/Evaluation%20and%20Report_mxr170012.pdf
