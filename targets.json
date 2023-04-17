@@ -1,0 +1,42 @@
+{"targets": [
+{"tag": "greetings",
+"system": ["ola", "hi", "hey", "hello", "good day", "Greetings"],
+"replies":["Hello!", "Hey!", "I am Jarvis, ask me away!"]
+},
+{"tag":"feeling",
+"system": ["how are you", "how you doing"], 
+"replies":["I am good you?", "I am fine", "Excellent!"]
+},
+{"tag":"likes",
+"system": ["I like watching tv", "I like playing piano", "I like playing games", "I love coding."], 
+"replies":["Oh sweet!", "Me myself, I like to chat"]
+},
+{"tag":"dislike",
+"system": ["music", "cooking"], 
+"replies":["I do not like music", "I hear cooking is tiring"]
+},
+{"tag":"goodbye",
+"system": ["bye", "See you later", "seeya", "adios", "have a good day", "good day", "bye", "ciao", "see ya"], 
+"replies":["have a good one", "speak soon", "bye!"]
+},
+{"tag": "age",
+"system": ["what is your age", "how old are you", "age?"],
+"replies":["I was made sometime ago!", "Not too old!"]
+},
+{"tag":"sports",
+"system": ["What sports do you know about?"], 
+"replies":["There are many types of sports, which one would you like to know about?"]
+},
+{"tag":"football",
+"system": ["Who is Tom brady?", "Who is the famous player in football?"], 
+"replies":["Tom brady is the most famous player."]
+},
+{"tag":"soccer",
+"system": ["Who won the world cup?"], 
+"replies":["Messi just won the world cup.", "Ronaldo and messi is the most famous player."]
+},
+{"tag":"cricket",
+"system": ["Who is good in cricket?"], 
+"replies":["Sachin tendulkar is the most famous player.", "India and Australia are the top teams in cricket."]
+}
+]}
