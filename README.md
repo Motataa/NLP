@@ -39,3 +39,6 @@ Chatbot: https://github.com/Motataa/Rahim_Portfolio/blob/main/Chatbot_mxr170012.
 Model: https://github.com/Motataa/Rahim_Portfolio/blob/main/Model_mxr170012.py
 
 Report: https://github.com/Motataa/Rahim_Portfolio/blob/main/Evaluation%20and%20Report_mxr170012.pdf
+
+## 11. Portfolio Assignment 10 : Text Classification 2
+Portfolio 10: https://github.com/Motataa/Rahim_Portfolio/blob/main/Portfolio%2010_mxr170012.pdf
