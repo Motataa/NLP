@@ -1,5 +1,5 @@
 # Rahim_Portfolio
 
-### Details and links index page: https://github.com/Motataa/Rahim_Portfolio/wiki/Index-Page
+### Overview and index page (links): https://github.com/Motataa/Rahim_Portfolio/wiki/Index-Page
 
 ### Reflection Page: https://github.com/Motataa/Rahim_Portfolio/wiki/Reflection
